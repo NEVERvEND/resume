@@ -51,6 +51,10 @@ display:flex;align-items:center;justify-content:center;color:white;font-weight:7
 .job h4{margin:0;font-size:15px}
 .job .meta{color:var(--muted);font-size:13px;margin-top:4px}
 .job p{margin:8px 0 0 0;color:var(--muted);font-size:14px;line-height:1.5}
+
+
+
+
 .skill-list{display:flex;flex-wrap:wrap}
 .skill{background:linear-gradient(90deg, rgba(84, 2, 216, 0.144), rgba(181, 96, 250, 0.13));border-radius:8px;padding:6px 8px;margin:6px 8px 6px 0;font-weight:600;font-size:13px;color:var(--text)}
 
